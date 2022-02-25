@@ -1,6 +1,11 @@
-# Instalaciones recomendadas - Curso de React Native
+# Instalaciones recomendadas - Curso de React
 
 ## Instalaciones Necesarias
+* [Google Chrome](https://www.google.com/chrome/)
+
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es&authuser=1)
+
+* [Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=es)
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -9,16 +14,8 @@
 * [Mongo Compass](https://www.mongodb.com/try/download/compass)
 
 * [Git](https://git-scm.com/)
-```
-git config --global user.name "Tu nombre"
-git config --global user.email "Tu correo"
-```
 
 * [Node](https://nodejs.org/es/)
-
-* [Android Studio](https://developer.android.com/studio)
-
-* [XCode - SOLO en MAC OSX](https://apps.apple.com/ca/app/xcode/id497799835)
 
 
 ## Extensiones de VSCode
@@ -43,14 +40,9 @@ git config --global user.email "Tu correo"
 
 * [Iconos](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-### Instalaciones recomendadas sobre React y React Native
-
+### Instalaciones recomendadas sobre React
 * [ES7 React/Redux](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 * [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-
-* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
-
-* [TypeScript importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
